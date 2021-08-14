@@ -4,7 +4,7 @@ const axios = require("axios").default;
 
 // 2. Thai Post API Token
 
-const token = // 1.วาง API Token ที่เราได้มาจาก Thai Post Account
+const token = "BiPmJ3QiXnTqX.OfZnMRW9JIUfH8DBX?JHNvQIJ_YyHBQ#MhXDGoYJZ9GTB:CFWnYPTSIqJ;Y%NPTVEGHuR0OGC%VyKnK5YzBCHE";
 
 class ThaiPost {
   
