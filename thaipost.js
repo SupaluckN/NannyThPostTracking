@@ -4,7 +4,7 @@ const axios = require("axios").default;
 
 // 2. Thai Post API Token
 
-const token = "BiPmJ3QiXnTqX.OfZnMRW9JIUfH8DBX?JHNvQIJ_YyHBQ#MhXDGoYJZ9GTB:CFWnYPTSIqJ;Y%NPTVEGHuR0OGC%VyKnK5YzBCHE";
+const token = "   AzMnLVVYB.QpXgSnOcA7T;KpM*QkRnVwYyErQAFjCrMvW&ICPnQQI;V%EaZaL+VnGdUSV:ZlKUF#WhW_DqIJR%TFEwL#XJI6WhGV";
 
 class ThaiPost {
   
